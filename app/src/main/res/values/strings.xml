@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Dice Games</string>
+  <string name="wallet_info">Click the die to roll.\n You earn 5 coins every time you roll a six!\nIf you roll two sixes in a row, you will 10 coins!\nBut if you roll any other number in a row, you lose 5 coins!</string>
+  <string name="coins">Coins</string>
+  <string name="zero">0</string>
+  <string name="six_faced_die">Six faced die</string>
+  <string name="six_faced_die_1">Six faced die 1</string>
+  <string name="six_faced_die_2">Six faced die 2</string>
+  <string name="six_faced_die_3">Six faced die 3</string>
+  <string name="six_faced_die_4">Six faced die 4</string>
+  <string name="launch_two_or_more">Two or more</string>
+  <string name="stop">Stop</string>
+  <string name="wager">Wager</string>
+  <string name="roll">Roll</string>
+  <string name="go">Go</string>
+  <string name="two_alike">2 Alike</string>
+  <string name="three_alike">3 alike</string>
+  <string name="four_alike">4 alike</string>
+  <string name="back">Back</string>
+  <string name="info">Info</string>
+  <string name="info_content">Dice Games\nThis game requires you to roll a dice, and you win some coins on hitting a 6.\nYou can now wager these coins in the Two Or More game.\n\nIn the Two Or More game, one can wager their coins and win based on the game type that the person chooses</string>
+  <string name="prev_roll">Previous Roll</string>
+  <string name="txt_prev_roll">0</string>
+  <string name="six_rolled">Sixes Rolled</string>
+  <string name="txt_single_sixes">0</string>
+  <string name="total_rolls">Total Dice Rolls</string>
+  <string name="txt_total_rolls">0</string>
+  <string name="double_sixes">Double Sixes</string>
+  <string name="txt_double_sixes">0</string>
+  <string name="double_others">Double Others</string>
+  <string name="txt_double_others">0</string>
+</resources>
